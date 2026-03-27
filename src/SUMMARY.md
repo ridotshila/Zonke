@@ -6,7 +6,7 @@
 
 - [Creating a Wallet](./creating-a-wallet.md)
 - [Logging In](./logging-in.md)
-- [Managing Your Account](./managing-account.md)
+- [Managing Your Profile](./profile-management.md)
 
 # Security
 
