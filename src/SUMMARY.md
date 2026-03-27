@@ -8,9 +8,9 @@
 - [Logging In](./logging-in.md)
 - [Managing Your Profile](./profile-management.md)
 
-# Security
+# Project
 
-- [Security Guidelines](./security-guidelines.md)
+- [creating a Project](./creating-a-project.md)
 - [Recovering Your PIN](./recovering-pin.md)
 
 # Troubleshooting
