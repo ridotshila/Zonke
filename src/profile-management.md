@@ -99,3 +99,95 @@ The system supports countries worldwide.
 Select from available time zones to ensure accurate timestamps for your activities.
 
 ### Qualifications Format
+
+Example:
+
+Bachelor of Science in Computer Science, University Name
+
+Professional Certification
+
+Training Course Completion
+
+text
+
+### Skills Format
+Example:
+
+JavaScript, Python, Java
+
+Project Management
+
+Data Analysis
+
+Customer Service
+
+text
+
+### Experience Format
+Example:
+Position Title | Company Name | Year-Year
+
+Key responsibility or achievement
+
+Key responsibility or achievement
+
+Previous Position | Company Name | Year-Year
+
+Key responsibility or achievement
+
+text
+
+---
+
+## After Saving
+
+Once you save your profile:
+- ⚡ Changes take effect immediately
+- 🔒 Your updated information is stored securely
+- 🚀 You can continue using Zonke services
+- 🔄 Return to edit anytime by clicking "Edit Profile" again
+
+---
+
+## Security Considerations
+
+When updating your profile:
+- ✅ Keep your email address current for account recovery
+- ✅ Use your real information for verification purposes
+- ❌ Don't share sensitive information publicly
+- ❌ Avoid using fake details that may lock your account
+
+> ⚠️ **Important:** Your email address is tied to your wallet identity. If you need to change your email, contact support for assistance.
+
+---
+
+## Need Help?
+
+If you encounter any issues while updating your profile:
+- 📧 Contact support: support@zonke.co.za
+- 📖 Check the [Troubleshooting Guide](./common-issues.md)
+- 💬 Visit our [Support Center](./getting-support.md)
+Key Changes Made
+Removed all personal information (email, names, location details, zip code)
+
+Kept icons only where they add value:
+
+Section headers have relevant icons
+
+Field names have icons to help with quick scanning
+
+Status indicators use icons (⚡, 🔒, 🚀, 🔄)
+
+Important notes use icons (✅, ❌, ⚠️)
+
+Icons removed from:
+
+Table headers (kept clean and professional)
+
+Step numbers (kept simple)
+
+Format examples (kept clean for copy-paste)
+
+Maintained professional formatting with clear sections and easy-to-read structure
+
+This version is cleaner, more professional, and doesn't contain any personal information while still being visually engaging with icons placed strategically where they help with navigation and quick identification.
