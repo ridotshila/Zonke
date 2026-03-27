@@ -2,11 +2,15 @@
 
 After successfully logging in, you can view and edit your profile information to keep your account details current.
 
+---
+
 ## Accessing Your Profile
 
-1. Log in to your Zonke account
-2. Navigate to **Profile** or **Account Settings**
-3. Click **"Edit Profile"** to make changes
+1. 🔐 Log in to your Zonke account
+2. 📍 Navigate to **Profile** or **Account Settings**
+3. ✏️ Click **"Edit Profile"** to make changes
+
+---
 
 ## Profile Fields
 
@@ -14,30 +18,32 @@ Your profile contains the following information. You can update any of these fie
 
 ### Personal Information
 
-| Field | Current Value | Description |
-|-------|---------------|-------------|
-| Email | romuwa63@gmail.com | Your login identifier (cannot be changed without verification) |
-| First Name | Ridotshila | Your given name |
-| Last Name | Mambeda | Your family name/surname |
-| Gender | - | Select your gender |
-| Country | South Africa | Your country of residence |
+| Field | Description |
+|-------|-------------|
+| 📧 Email | Your login identifier (cannot be changed without verification) |
+| 👤 First Name | Your given name |
+| 👥 Last Name | Your family name/surname |
+| ⚥ Gender | Select your gender |
+| 🌍 Country | Your country of residence |
 
 ### Location Details
 
-| Field | Current Value | Description |
-|-------|---------------|-------------|
-| Town/City | Johannesburg | Your city of residence |
-| Province/State | - | Your province or state |
-| Zip/Postal Code | 2001 | Your postal code |
-| Time Zone | - | Your local time zone |
+| Field | Description |
+|-------|-------------|
+| 🏙️ Town/City | Your city of residence |
+| 🗺️ Province/State | Your province or state |
+| 📮 Zip/Postal Code | Your postal code |
+| ⏰ Time Zone | Your local time zone |
 
 ### Professional Information
 
-| Field | Current Value | Description |
-|-------|---------------|-------------|
-| Qualifications | - | Your educational credentials |
-| Skills | - | Your professional competencies |
-| Experience | - | Your work history and expertise |
+| Field | Description |
+|-------|-------------|
+| 🎓 Qualifications | Your educational credentials |
+| 🛠️ Skills | Your professional competencies |
+| 📊 Experience | Your work history and expertise |
+
+---
 
 ## How to Update Your Profile
 
@@ -73,18 +79,23 @@ After making your updates:
 2. Click the **"Save"** button
 3. Wait for confirmation that your profile has been updated
 
+---
+
 ## Profile Fields in Detail
 
 ### Gender Options
+
 - Male
 - Female
 - Other
 - Prefer not to say
 
 ### Country Selection
-The system supports countries worldwide. South Africa is pre-selected for your convenience.
+
+The system supports countries worldwide.
 
 ### Time Zone
+
 Select from available time zones to ensure accurate timestamps for your activities.
 
 ### Qualifications Format
