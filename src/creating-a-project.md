@@ -114,6 +114,3 @@ After completing all fields:
 
 ---
 
-## Example Project Setup
-
-Here's a complete example of a project setup:
