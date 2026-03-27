@@ -25,16 +25,16 @@ You'll need to provide your account credentials:
 ### ✅ Step 3: Remember Password Option
 
 You'll see a **"Remember Password"** checkbox. When selected:
-- 🔄 Your login session will persist across browser sessions
-- 🚀 You won't need to re-enter your PIN each time
+-  Your login session will persist across browser sessions
+-  You won't need to re-enter your PIN each time
 - ⚠️ **Only use this on trusted, private devices**
 
 ### 🚪 Step 4: Click "Login"
 
 After entering your credentials:
 1. ✅ Verify your email and PIN are correct
-2. 🔘 Click the **"Login"** button
-3. ⏳ Wait for authentication to process
+2.  Click the **"Login"** button
+3.  Wait for authentication to process
 
 ---
 
@@ -67,7 +67,7 @@ Once authenticated, you'll be redirected to your account dashboard where you can
 
 ## 🔐 Security Reminders
 
-- 🤫 Never share your PIN with anyone
-- 🏠 Use "Remember Password" only on personal devices
-- 🚪 Always log out when using shared computers
-- 📧 Keep your registered email address current for account recovery
+-  Never share your PIN with anyone
+-  Use "Remember Password" only on personal devices
+-  Always log out when using shared computers
+-  Keep your registered email address current for account recovery
