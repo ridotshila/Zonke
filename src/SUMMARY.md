@@ -12,8 +12,4 @@
 
 - [creating a Project](./creating-a-project.md)
 - [Recovering Your PIN](./recovering-pin.md)
-
-# Troubleshooting
-
-- [Common Issues](./common-issues.md)
-- [Getting Support](./getting-support.md)
+- [My Bids for Projects](./my-bids.md)
