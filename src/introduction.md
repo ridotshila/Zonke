@@ -81,11 +81,11 @@ If you're looking for work:
 
 Need help? Check these resources:
 
-| Resource | Description |
-|----------|-------------|
-| 📖 [Common Issues](./common-issues.md) | Solutions to frequently encountered problems |
-| 💬 [Support Center](./getting-support.md) | How to contact the support team |
-| 📧 Email | support@zonke.co.za |
+| Channel | Contact |
+|---------|---------|
+| 📧 Email | cto@wims.io |
+| 💬 WhatsApp | +27 73 182 0631 |
+| 📞 Call | +27 73 182 0631 |
 
 ---
 
@@ -95,7 +95,7 @@ Need help? Check these resources:
 - 🔑 [Logging In](./logging-in.md)
 - 👤 [Managing Your Profile](./profile-management.md)
 - 📁 [Creating a Project](./creating-a-project.md)
-- 💼 [My Bids](./my-bids.md)
+- 💼 [My Bids for Projects](./my-bids.md)
 
 ---
 
